@@ -1,5 +1,5 @@
 # Thietkehethongmangnoibo
-Enterprise Network Simulation (Cisco Packet Tracer)
+Enterprise Network Simulation (Cisco Packet Tracer Student)
 Overview
 
 Thiết kế và triển khai hệ thống mạng doanh nghiệp mô phỏng với VLAN, routing, NAT và bảo mật.
